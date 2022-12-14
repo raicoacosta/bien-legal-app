@@ -43,7 +43,7 @@
     "not op_mini all"
   ],
   "dependencies": {
-    "@fortawesome/fontawesome-free": "5.15.3",
+    "axios": "1.2.0",
     "bootstrap": "4.6.0",
     "chart.js": "2.9.4",
     "classnames": "2.3.1",
@@ -54,12 +54,19 @@
     "react-copy-to-clipboard": "5.1.0",
     "react-datetime": "3.1.1",
     "react-dom": "18.2.0",
+    "react-icons": "4.7.1",
+    "react-redux": "8.0.5",
     "react-router-dom": "5.2.0",
     "react-scripts": "5.0.1",
     "reactstrap": "8.9.0",
+    "redux": "4.2.0",
+    "redux-persist": "6.0.0",
+    "redux-thunk": "2.4.2",
     "sass": "1.54.5"
   },
   "devDependencies": {
+    "eslint": "^8.29.0",
+    "eslint-plugin-react": "^7.31.11",
     "gulp": "4.0.2",
     "gulp-append-prepend": "1.0.9"
   },
